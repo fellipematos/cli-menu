@@ -10,7 +10,9 @@ Instale a biblioteca **pyfiglet**
 Clone o repositório do git, acesse a pasta src (pasta que contém os arquivos .py), execute o arquivo principal **main.py**
 
 > git clone https://github.com/fellipematos/simple-menu-cli
+> 
 > cd simples-menu-cli/src
+> 
 > python main.py
 
 <HR>
@@ -33,8 +35,11 @@ Você pode utilizar apenas o arquivo **menuConfig.py** nas suas aplicações. Im
 >from menuConfig import *
 >
 >**start** = [
+>
 >("Nome da Opcao 1", funcaoMenu1),
+>
 >("Nome da Opcao 2", funcaoMenu2)
+>
 >]
 
 
