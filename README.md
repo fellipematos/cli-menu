@@ -38,8 +38,8 @@ Você pode utilizar apenas o arquivo **menuConfig.py** nas suas aplicações. Im
 from menuConfig import *
 
 START = [
-("Nome da Opcao 1", funcaoMenu1),
-("Nome da Opcao 2", funcaoMenu2)
+  ("Nome da Opcao 1", funcaoMenu1),
+  ("Nome da Opcao 2", funcaoMenu2)
 ]
 ```
 
