@@ -7,8 +7,10 @@ Instale a biblioteca **pyfiglet**
 
 > python -m pip install pyfiglet
 
-Execute o arquivo principal **main.py**
+Clone o repositório do git, acesse a pasta src (pasta que contém os arquivos .py), execute o arquivo principal **main.py**
 
+> git clone https://github.com/fellipematos/simple-menu-cli
+> cd simples-menu-cli/src
 > python main.py
 
 <HR>
