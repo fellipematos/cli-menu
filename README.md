@@ -20,9 +20,13 @@ python main.py
 <HR>
 
 ### Arquivo de Configuração **menuConfig.py**
+  
 **title**: Define o titulo da sua aplicação.
+  
 **txtMenuBreak**: Define o texto para menu sair.
+  
 **msgBreak**: Define a mensagem para finalizar sua aplicação.
+  
 **msgInvalidOption**: Define a mensagem para opções inválida.
 
 <HR>
