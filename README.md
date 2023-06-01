@@ -13,7 +13,7 @@ Clone o repositório do git, acesse a pasta src (pasta que contém os arquivos .
 
 ```bash
 git clone https://github.com/fellipematos/simple-menu-cli
-cd simples-menu-cli/src
+cd cli-menu/src
 python main.py
 ```
 
