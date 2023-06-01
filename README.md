@@ -1,4 +1,4 @@
-# simple-menu-cli
+# CLI - Menu
 Simples menu para utilizar em suas aplicações CLI.
 _Código simples e comentado, para futuras atualizações_
 
